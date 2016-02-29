@@ -1,6 +1,5 @@
 # Dictionaries
-The 'How to on using Dictionaries in Python"
-A dictionary is similar to a list, but you access values by looking up a key instead of an index. A key may be any string or number. Dictionaries are enclosed in curly braces, like so:
+The 'How to on using Dictionaries in Python". A dictionary is similar to a list, but you access values by looking up a key instead of an index. A key may be any string or number. Dictionaries are enclosed in curly braces, like so:
 
 d = {'key1' : 1, 'key2' : 2, 'key3' : 3}
 This is a dictionary called d with three key-value pairs. The key 'key1' points to the value 1, 'key2' to 2, and so on.
