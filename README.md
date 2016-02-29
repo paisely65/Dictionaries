@@ -15,9 +15,9 @@ EXAMPLE
 # Assigning a dictionary with three key-value pairs to residents:
 residents = {'Cat' : 104, 'Rabbit' : 105, 'Tiger' : 106}
 
-print residents['Cat']/
-print residents['Rabbit']/
-print residents['Tiger']/
+print residents['Cat'] 
+   print residents['Rabbit']
+   print residents['Tiger']
 >>104
 >>105
 >>106
